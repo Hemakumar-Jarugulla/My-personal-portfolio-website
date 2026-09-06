@@ -57,7 +57,7 @@ function App() {
               <a className="secondary" href="#contact">Let's Connect</a>
             </div>
             <div className="socials">
-              <a href="https://github.com/hemakumar" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/Hemakumar-Jarugulla" target="_blank" rel="noreferrer">GitHub</a>
               <a href="www.linkedin.com/in/hemakumar-jarugulla" target="_blank" rel="noreferrer">LinkedIn</a>
               <a href="jarugullahemakumar@gmail.com">Email</a>
             </div>
