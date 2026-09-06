@@ -118,8 +118,8 @@ function App() {
           <div className="contact-links">
             <a href="mailto:jarugullahemakumar@gmail.com"><small>EMAIL</small><b>jarugullahemakumar@gmail.com</b>↗</a>
             <a href="tel:+917386547705"><small>PHONE</small><b>+91 7386547705</b>↗</a>
-            <a href="https://linkedin.com/in/hemakumar" target="_blank" rel="noreferrer"><small>LINKEDIN</small><b>linkedin.com/in/hemakumar</b>↗</a>
-            <a href="https://github.com/hemakumar" target="_blank" rel="noreferrer"><small>GITHUB</small><b>github.com/hemakumar</b>↗</a>
+            <a href="www.linkedin.com/in/hemakumar-jarugulla " target="_blank" rel="noreferrer"><small>LINKEDIN</small><b>linkedin.com/in/hemakumar</b>↗</a>
+            <a href=" https://github.com/Hemakumar-Jarugulla" target="_blank" rel="noreferrer"><small>GITHUB</small><b>github.com/hemakumar</b>↗</a>
           </div>
         </section>
       </main>
