@@ -58,8 +58,9 @@ function App() {
             </div>
             <div className="socials">
               <a href="https://github.com/Hemakumar-Jarugulla" target="_blank" rel="noreferrer">GitHub</a>
-              <a href="www.linkedin.com/in/hemakumar-jarugulla" target="_blank" rel="noreferrer">LinkedIn</a>
-              <a href="jarugullahemakumar@gmail.com">Email</a>
+              <a href="https://www.linkedin.com/in/hemakumar-jarugulla" target="_blank" rel="noreferrer">LinkedIn</a>
+              <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jarugullahemakumar@gmail.com" target="_blank" rel="noreferrer">Email</a>
+            </div>
             </div>
           </div>
           <div className="hero-card">
