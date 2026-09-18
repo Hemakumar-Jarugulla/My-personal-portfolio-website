@@ -1,4 +1,4 @@
-```jsx
+
 import React, { useState } from 'react';
 import profileImage from './assets/profile.jpg';
 
@@ -418,4 +418,3 @@ function App() {
 }
 
 export default App;
-```
