@@ -63,11 +63,15 @@ function App() {
             </div>
             </div>
           </div>
-          <div className="hero-card">
-            <div className="photo-ring"><img src={profileImage} alt="Hemakumar Jarugulla"/></div>
-            <div className="mini-card one"><strong>Python,Flask,DSA,GEN AI</strong><small>Full Stack</small></div>
-            <div className="mini-card two"><strong></strong>HTML,CSS,JS,REACT JS<small></small></div>
-          </div>
+         <div className="mini-card one">
+  <strong>Python, Flask, DSA, GEN AI</strong>
+  <small>Full Stack</small>
+</div>
+
+<div className="mini-card two">
+  <strong>HTML, CSS, JS, REACT JS</strong>
+  <small>Frontend</small>
+</div>
         </section>
 
         <section id="about" className="section about">
@@ -125,7 +129,11 @@ function App() {
         </section>
       </main>
 
-      <footer><span>© {new Date().getFullYear()} Hemakumar Jarugulla</span><span>React · Python · AI/ML</span><a href="#home">Back to top ↑</a></footer>
+     <footer>
+  <span>© {new Date().getFullYear()} Hemakumar Jarugulla</span>
+  <span>React | Python | AI/ML</span>
+  <a href="#home">Back to top ↑</a>
+</footer>
     </div>
   );
 }
